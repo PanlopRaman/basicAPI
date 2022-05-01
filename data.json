@@ -25,7 +25,16 @@
         "subtitle" : "Test Add ข้อมูลเพิ่มอีก 1 ตัว ในหน้า data.json file",
         "image_url" : "https://cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg",
         "detail" : "Test 1 \n\n Test2 \n\n  Test3 \n\n   Test4"
+    },
+
+    {
+        "title" : "Test Add On GitHb",
+        "subtitle" : "ทดลอง edit file แล้วอัพใน GitHub",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/07/06/15/29/math-1500720_1280.jpg",
+        "detail" : "Test 1 \n\n Test2 \n\n  Test3 \n\n   Test4"
     }
+
+    
 
 
 ]
